@@ -64,7 +64,7 @@ audio {
 	color: pink;
 	border-radius: 5px;
 	position: fixed;
-	visibility: visible;
+	visibility: none;
 }
 audio::-webkit-media-controls-panel {
 	color: aqua;
